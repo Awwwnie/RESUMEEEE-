@@ -1,0 +1,123 @@
+{
+  "Programming Languages": {
+    "Python": ["python", "py"],
+    "Java": ["java"],
+    "C++": ["c\\+\\+", "cpp", "cplusplus"],
+    "C#": ["c#", "csharp", "c-sharp"],
+    "C": ["c"],
+    "JavaScript": ["javascript", "js", "ecmascript"],
+    "TypeScript": ["typescript", "ts"],
+    "Go": ["golang", "go"],
+    "Rust": ["rust"],
+    "PHP": ["php"],
+    "Ruby": ["ruby"],
+    "Swift": ["swift"],
+    "Kotlin": ["kotlin"],
+    "R": ["r"],
+    "SQL": ["sql"],
+    "Dart": ["dart"],
+    "Scala": ["scala"],
+    "Shell/Bash": ["bash", "shell", "shell scripting", "powershell"]
+  },
+  "Web Development": {
+    "React": ["react", "react\\.js", "reactjs"],
+    "Angular": ["angular", "angularjs"],
+    "Vue.js": ["vue", "vue\\.js", "vuejs"],
+    "Node.js": ["node\\.js", "nodejs", "node js"],
+    "Express.js": ["express", "express\\.js", "expressjs"],
+    "FastAPI": ["fastapi"],
+    "Flask": ["flask"],
+    "Django": ["django"],
+    "Spring Boot": ["spring boot", "springboot", "spring framework"],
+    "ASP.NET": ["asp\\.net", "\\.net core", "\\.net"],
+    "Next.js": ["next\\.js", "nextjs"],
+    "HTML/CSS": ["html", "css", "html5", "css3", "html/css"],
+    "TailwindCSS": ["tailwindcss", "tailwind"],
+    "Bootstrap": ["bootstrap"],
+    "GraphQL": ["graphql"],
+    "REST API": ["rest api", "restful api", "restful apis", "rest apis", "restful"],
+    "WebSockets": ["websocket", "websockets"]
+  },
+  "Databases": {
+    "PostgreSQL": ["postgresql", "postgres"],
+    "MySQL": ["mysql"],
+    "MongoDB": ["mongodb", "mongo"],
+    "SQLite": ["sqlite"],
+    "Oracle": ["oracle", "oracle db"],
+    "Microsoft SQL Server": ["mssql", "sql server"],
+    "Redis": ["redis"],
+    "Cassandra": ["cassandra"],
+    "DynamoDB": ["dynamodb"],
+    "Firebase": ["firebase", "firestore"],
+    "Elasticsearch": ["elasticsearch", "elastic search"]
+  },
+  "Cloud & DevOps": {
+    "AWS": ["aws", "amazon web services", "ec2", "s3"],
+    "Azure": ["azure", "microsoft azure"],
+    "GCP": ["gcp", "google cloud platform", "google cloud"],
+    "Docker": ["docker", "containerization"],
+    "Kubernetes": ["kubernetes", "k8s"],
+    "Terraform": ["terraform"],
+    "Jenkins": ["jenkins"],
+    "CI/CD": ["ci/cd", "ci-cd", "continuous integration", "continuous deployment"],
+    "GitHub Actions": ["github actions"],
+    "Ansible": ["ansible"],
+    "Nginx": ["nginx"]
+  },
+  "AI/ML": {
+    "PyTorch": ["pytorch"],
+    "TensorFlow": ["tensorflow", "tf"],
+    "Keras": ["keras"],
+    "Scikit-learn": ["scikit-learn", "sklearn"],
+    "OpenCV": ["opencv"],
+    "NLTK": ["nltk"],
+    "Spacy": ["spacy"],
+    "Hugging Face": ["hugging face", "transformers"],
+    "LangChain": ["langchain"],
+    "LLMs": ["llm", "llms", "large language models", "gpt", "bert"],
+    "Deep Learning": ["deep learning", "neural networks", "cnn", "rnn"],
+    "Machine Learning": ["machine learning", "ml"]
+  },
+  "Data Science": {
+    "Pandas": ["pandas"],
+    "NumPy": ["numpy"],
+    "Matplotlib": ["matplotlib"],
+    "Seaborn": ["seaborn"],
+    "SciPy": ["scipy"],
+    "Spark": ["apache spark", "pyspark", "spark"],
+    "Hadoop": ["hadoop"],
+    "Tableau": ["tableau"],
+    "PowerBI": ["powerbi", "power bi"],
+    "Data Analysis": ["data analysis", "exploratory data analysis", "eda"]
+  },
+  "Mobile Development": {
+    "React Native": ["react native"],
+    "Flutter": ["flutter"],
+    "Android Dev": ["android", "android sdk"],
+    "iOS Dev": ["ios", "ios development"],
+    "Xamarin": ["xamarin"]
+  },
+  "Version Control & Tools": {
+    "Git": ["git"],
+    "GitHub": ["github"],
+    "GitLab": ["gitlab"],
+    "Bitbucket": ["bitbucket"],
+    "Jira": ["jira"],
+    "Postman": ["postman"],
+    "VS Code": ["vs code", "vscode"]
+  },
+  "Operating Systems": {
+    "Linux": ["linux", "ubuntu", "debian", "centos", "redhat"],
+    "Windows": ["windows", "windows server"],
+    "macOS": ["macos", "os x"]
+  },
+  "Computer Science Fundamentals": {
+    "Data Structures & Algorithms": ["dsa", "data structures and algorithms", "data structures & algorithms", "data structures", "algorithms"],
+    "OOP": ["oop", "object-oriented programming", "object oriented programming"],
+    "System Design": ["system design", "distributed systems"],
+    "Operating Systems Concepts": ["operating systems", "multithreading", "concurrency"],
+    "Computer Networks": ["computer networks", "tcp/ip", "http", "https"],
+    "DBMS": ["dbms", "database management"],
+    "Agile/Scrum": ["agile", "scrum", "kanban"]
+  }
+}

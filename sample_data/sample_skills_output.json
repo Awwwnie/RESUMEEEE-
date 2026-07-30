@@ -1,0 +1,218 @@
+{
+  "matching_skills": [
+    "AWS",
+    "Agile/Scrum",
+    "CI/CD",
+    "Docker",
+    "FastAPI",
+    "Git",
+    "JavaScript",
+    "Machine Learning",
+    "Node.js",
+    "Pandas",
+    "PostgreSQL",
+    "PyTorch",
+    "Python",
+    "REST API",
+    "React",
+    "SQL",
+    "Scikit-learn",
+    "TensorFlow",
+    "TypeScript"
+  ],
+  "missing_skills": [
+    "Django",
+    "GraphQL",
+    "Kubernetes",
+    "Redis"
+  ],
+  "additional_skills": [
+    "C++",
+    "Data Structures & Algorithms",
+    "Express.js",
+    "Flask",
+    "GitHub",
+    "GitHub Actions",
+    "HTML/CSS",
+    "Jira",
+    "Linux",
+    "MongoDB",
+    "NLTK",
+    "NumPy",
+    "OOP",
+    "OpenCV",
+    "Operating Systems Concepts",
+    "TailwindCSS"
+  ],
+  "matched_count": 19,
+  "missing_count": 4,
+  "additional_count": 16,
+  "total_required_skills": 23,
+  "skill_match_percentage": 82.61,
+  "resume_skills_count": 35,
+  "jd_skills_count": 23,
+  "resume_skills": {
+    "categorized": {
+      "Programming Languages": [
+        "C++",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "TypeScript"
+      ],
+      "Web Development": [
+        "Express.js",
+        "FastAPI",
+        "Flask",
+        "HTML/CSS",
+        "Node.js",
+        "REST API",
+        "React",
+        "TailwindCSS"
+      ],
+      "Databases": [
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "Cloud & DevOps": [
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "AI/ML": [
+        "Machine Learning",
+        "NLTK",
+        "OpenCV",
+        "PyTorch",
+        "Scikit-learn",
+        "TensorFlow"
+      ],
+      "Data Science": [
+        "NumPy",
+        "Pandas"
+      ],
+      "Version Control & Tools": [
+        "Git",
+        "GitHub",
+        "Jira"
+      ],
+      "Operating Systems": [
+        "Linux"
+      ],
+      "Computer Science Fundamentals": [
+        "Agile/Scrum",
+        "Data Structures & Algorithms",
+        "OOP",
+        "Operating Systems Concepts"
+      ]
+    },
+    "all_skills": [
+      "AWS",
+      "Agile/Scrum",
+      "C++",
+      "CI/CD",
+      "Data Structures & Algorithms",
+      "Docker",
+      "Express.js",
+      "FastAPI",
+      "Flask",
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "HTML/CSS",
+      "JavaScript",
+      "Jira",
+      "Linux",
+      "Machine Learning",
+      "MongoDB",
+      "NLTK",
+      "Node.js",
+      "NumPy",
+      "OOP",
+      "OpenCV",
+      "Operating Systems Concepts",
+      "Pandas",
+      "PostgreSQL",
+      "PyTorch",
+      "Python",
+      "REST API",
+      "React",
+      "SQL",
+      "Scikit-learn",
+      "TailwindCSS",
+      "TensorFlow",
+      "TypeScript"
+    ],
+    "total_skills_count": 35
+  },
+  "jd_skills": {
+    "categorized": {
+      "Programming Languages": [
+        "JavaScript",
+        "Python",
+        "SQL",
+        "TypeScript"
+      ],
+      "Web Development": [
+        "Django",
+        "FastAPI",
+        "GraphQL",
+        "Node.js",
+        "REST API",
+        "React"
+      ],
+      "Databases": [
+        "PostgreSQL",
+        "Redis"
+      ],
+      "Cloud & DevOps": [
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "Kubernetes"
+      ],
+      "AI/ML": [
+        "Machine Learning",
+        "PyTorch",
+        "Scikit-learn",
+        "TensorFlow"
+      ],
+      "Data Science": [
+        "Pandas"
+      ],
+      "Version Control & Tools": [
+        "Git"
+      ],
+      "Computer Science Fundamentals": [
+        "Agile/Scrum"
+      ]
+    },
+    "all_skills": [
+      "AWS",
+      "Agile/Scrum",
+      "CI/CD",
+      "Django",
+      "Docker",
+      "FastAPI",
+      "Git",
+      "GraphQL",
+      "JavaScript",
+      "Kubernetes",
+      "Machine Learning",
+      "Node.js",
+      "Pandas",
+      "PostgreSQL",
+      "PyTorch",
+      "Python",
+      "REST API",
+      "React",
+      "Redis",
+      "SQL",
+      "Scikit-learn",
+      "TensorFlow",
+      "TypeScript"
+    ],
+    "total_skills_count": 23
+  }
+}
