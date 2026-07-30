@@ -1,0 +1,34 @@
+ALEX CHEN
+Computer Science Undergrad | Full-Stack & Machine Learning Enthusiast
+Email: alex.chen@university.edu | Phone: (555) 019-2834 | GitHub: github.com/alexchen-dev
+
+SUMMARY
+Motivated senior Computer Science student with strong foundations in software engineering, data structures, and machine learning. Experienced in building full-stack web applications using React, Python (FastAPI/Flask), and PostgreSQL. Seeking a Software Engineering Internship / Entry-Level Role.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, TypeScript, C++, SQL, HTML/CSS
+- Web Frameworks & Libraries: React, Node.js, Express, FastAPI, Flask, TailwindCSS
+- Databases & Cloud: PostgreSQL, MongoDB, Docker, AWS (S3, EC2), Git, Linux
+- Machine Learning & Data: PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, NLTK
+- Core Competencies: RESTful APIs, OOP, Data Structures & Algorithms, CI/CD, Agile
+
+EDUCATION
+B.S. in Computer Science | State University, Expected May 2026
+GPA: 3.85 / 4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Machine Learning, Operating Systems.
+
+PROJECTS
+1. Smart Resume Shortlisting System (Python, FastAPI, React, Scikit-learn)
+   • Built an NLP-powered application to rank candidate resumes against job descriptions using TF-IDF and cosine similarity.
+   • Extracted technical skills using customized regex boundary matching and mapped missing skill gaps.
+   • Designed an interactive dashboard with real-time similarity metrics and interview question suggestions.
+
+2. E-Commerce Microservices Portal (Node.js, Express, MongoDB, Docker)
+   • Developed containerized backend microservices for user authentication, product catalog, and order processing.
+   • Integrated JWT authentication and Stripe payment gateway.
+
+EXPERIENCE
+Software Engineering Intern | TechCorp Solutions (June 2025 – August 2025)
+- Automated data processing pipelines in Python, reducing data ingestion latency by 35%.
+- Wrote unit and integration tests using pytest, improving repository code coverage to 88%.
+- Collaborated in an Agile Scrum team using Git, Jira, and GitHub Actions.

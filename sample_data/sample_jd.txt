@@ -1,0 +1,22 @@
+Job Title: Graduate Software Engineer - AI & Web Applications
+Location: University Placement Campus / Hybrid
+
+Job Overview:
+We are seeking a talented Junior / Graduate Software Engineer with solid foundations in Python, Web Development, and Machine Learning. The candidate will work on developing scalable cloud services, modern web interfaces, and AI-driven data pipelines.
+
+Key Responsibilities:
+- Design, develop, and deploy full-stack web applications and microservices.
+- Work with AI/ML libraries to build data extraction and analysis pipelines.
+- Write clean, maintainable, and well-tested code in Python and TypeScript.
+- Collaborate with cross-functional teams using Git, Docker, and CI/CD pipelines.
+
+Required Technical Skills:
+- Programming Languages: Python, JavaScript, TypeScript, SQL
+- Frameworks: React, FastAPI or Django, Node.js
+- Databases & Cloud: PostgreSQL, Docker, AWS
+- Machine Learning & Analytics: PyTorch or TensorFlow, Scikit-learn, Pandas
+- Engineering Practices: Git, REST APIs, Unit Testing, Agile methodologies
+
+Preferred Qualifications:
+- Familiarity with NLP techniques (TF-IDF, Cosine Similarity, Embeddings).
+- Experience with Kubernetes, GraphQL, or Redis is a plus.
