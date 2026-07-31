@@ -87,12 +87,6 @@ python -m unittest discover -s tests -p "test_*.py"
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of the dashboard here after uploading them to GitHub.
-
----
-
 ## 👩‍💻 Author
 
 **Aditi Tripathy**
