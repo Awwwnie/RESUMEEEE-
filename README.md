@@ -87,6 +87,8 @@ python -m unittest discover -s tests -p "test_*.py"
 
 ---
 
+https://resume-skill-analyzer.streamlit.app/
+
 ## 👩‍💻 Author
 
 **Aditi Tripathy**
