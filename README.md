@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # RESUMEEEE-
 
+=======
+>>>>>>> 9267bb2 (Final polish before deployment)
 # AI Resume Shortlisting & Skill Analysis Platform
 
 An AI-powered platform that evaluates candidate resumes against job descriptions, providing suitability scores, detecting skill gaps, and generating interview questions. Built as a proof-of-concept for integration into a university placement portal.
@@ -87,11 +90,23 @@ python -m unittest discover -s tests -p "test_*.py"
 
 ---
 
+<<<<<<< HEAD
 https://resume-skill-analyzer.streamlit.app/
+=======
+## 📸 Screenshots
+
+> Add screenshots of the dashboard here after uploading them to GitHub.
+
+---
+>>>>>>> 9267bb2 (Final polish before deployment)
 
 ## 👩‍💻 Author
 
 **Aditi Tripathy**
 
 B.Tech Computer Science (AI & ML)  
+<<<<<<< HEAD
 Sri Sri University
+=======
+Sri Sri University
+>>>>>>> 9267bb2 (Final polish before deployment)
