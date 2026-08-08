@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# RESUMEEEE-
-
-=======
->>>>>>> 9267bb2 (Final polish before deployment)
 # AI Resume Shortlisting & Skill Analysis Platform
 
 An AI-powered platform that evaluates candidate resumes against job descriptions, providing suitability scores, detecting skill gaps, and generating interview questions. Built as a proof-of-concept for integration into a university placement portal.
@@ -10,7 +5,6 @@ An AI-powered platform that evaluates candidate resumes against job descriptions
 ---
 
 ## ✨ Features
-
 - Resume & Job Description Parsing (PDF, DOCX, TXT)
 - Technical Skill Extraction using a categorized skills taxonomy
 - Hybrid Suitability Scoring (TF-IDF + Skill Match)
@@ -42,7 +36,6 @@ An AI-powered platform that evaluates candidate resumes against job descriptions
 ---
 
 ## 📁 Project Structure
-
 ```text
 RESUMEEEE-/
 ├── app.py
@@ -62,7 +55,6 @@ RESUMEEEE-/
 ---
 
 ## 🚀 Running Locally
-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
@@ -71,7 +63,6 @@ streamlit run app.py
 ---
 
 ## 🧪 Running Tests
-
 ```bash
 python -m unittest discover -s tests -p "test_*.py"
 ```
@@ -79,7 +70,6 @@ python -m unittest discover -s tests -p "test_*.py"
 ---
 
 ## 🎯 Future Roadmap
-
 - PDF report generation
 - Resume improvement suggestions
 - Learning resource recommendations
@@ -90,23 +80,15 @@ python -m unittest discover -s tests -p "test_*.py"
 
 ---
 
-<<<<<<< HEAD
-https://resume-skill-analyzer.streamlit.app/
-=======
-## 📸 Screenshots
+## 🔗 Live Demo
+[resume-skill-analyzer.streamlit.app](https://resume-skill-analyzer.streamlit.app/)
 
+## 📸 Screenshots
 > Add screenshots of the dashboard here after uploading them to GitHub.
 
 ---
->>>>>>> 9267bb2 (Final polish before deployment)
 
 ## 👩‍💻 Author
-
 **Aditi Tripathy**
-
-B.Tech Computer Science (AI & ML)  
-<<<<<<< HEAD
+B.Tech Computer Science (AI & ML)
 Sri Sri University
-=======
-Sri Sri University
->>>>>>> 9267bb2 (Final polish before deployment)
